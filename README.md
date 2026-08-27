@@ -20,4 +20,4 @@ I'm an Electrical Engineering undergraduate at IIT Gandhinagar with interests in
 ### Connect
 
 <!--* LinkedIn: https://linkedin.com/in/your-linkedin-->
-* Email: [roshin.gelasious@iitgn.ac.in](mailto:roshin.gelasious@iitgn.ac.in)
+* Email: [rgelasious@gmail.com](mailto:rgelasious@gmail.com)
