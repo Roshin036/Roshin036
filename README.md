@@ -4,18 +4,16 @@ I'm an Electrical Engineering undergraduate at IIT Gandhinagar with interests in
 
 ### Technologies
 
-`C` `C++` `Python` `MATLAB` `Verilog` `SystemVerilog`
+ `C++` `Python` `MATLAB` `Verilog` `SystemVerilog`
 
 ### Tools
 
-`Cadence Virtuoso` `LTspice` `Vivado` `STM32CubeIDE` `MATLAB/Simulink` `Git` `Linux`
+`Cadence Virtuoso` `LTspice` `Vivado` `STM32CubeIDE` `MATLAB/Simulink` 
 
 ### Currently Learning
 
 * ASIC Design Flow
-* FPGA Development
 * Computer Architecture
-* Hardware Verification
 
 ### Connect
 
