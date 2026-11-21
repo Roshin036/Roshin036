@@ -4,11 +4,11 @@ I'm an Electrical Engineering undergraduate at IIT Gandhinagar with interests in
 
 ### Technologies
 
- `C++` `Python` `MATLAB` `Verilog` `SystemVerilog`
+ `C++` `Python` `MATLAB` `Verilog` 
 
 ### Tools
 
-`Cadence Virtuoso` `LTspice` `Vivado` `STM32CubeIDE` `MATLAB/Simulink` 
+`Cadence Virtuoso` `LTspice` `Vivado` `STM32CubeIDE` `MATLAB` 
 
 ### Currently Learning
 
